@@ -36,12 +36,15 @@
 
 [任务卡与检索日志](docs/templates/search-log.md) · [规范版本表](docs/templates/version-matrix.md) · [类案比较表](docs/templates/case-comparison.md) · [文献矩阵](docs/templates/literature-matrix.md) · [检索报告](docs/templates/report.md) · [资源维护表](docs/templates/resource-maintenance.md)
 
-## 阅读 v1.0 全书
+## 阅读 v1.1 全书
 
-v1.0 为第一版 PDF，共76页，正文整理日期为2026年10月18日。v1.1 新增仓库图谱和配套操作内容；原 PDF 文件保持不变，图谱中的章节号对应 v1.0。
+**[在线阅读 v1.1 PDF](AI时代法律文献检索指北_v1.1.pdf) · [下载 v1.1 PDF](https://github.com/Hanyuan9766/ai-era-legal-research-guide/raw/refs/heads/main/AI时代法律文献检索指北_v1.1.pdf)**
 
-- [在线阅读 PDF](AI时代法律文献检索指北_v1.0.pdf)
-- [下载 PDF](https://github.com/Hanyuan9766/ai-era-legal-research-guide/raw/refs/heads/main/AI时代法律文献检索指北_v1.0.pdf)
+v1.1 链接增补版共78页，保留第一版正文与封面，新增两页图谱、SOP、演练和模板导航。各章页眉及章首页页脚可直接打开对应配套内容。PDF 中的配套链接固定到本次图谱版本，仓库首页提供后续更新；图谱在线阅读。
+
+第一版正文整理日期为2026年10月18日，章节编号与 v1.0 一致。
+
+- [v1.0 原版 PDF（76页）](AI时代法律文献检索指北_v1.0.pdf)
 - [文件校验值](SHA256SUMS.txt)
 
 ## 维护与反馈
