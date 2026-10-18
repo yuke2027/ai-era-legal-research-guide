@@ -38,7 +38,7 @@
 
 ## 阅读 v1.1 全书
 
-**[在线阅读 v1.1 PDF](AI时代法律文献检索指北_v1.1.pdf) · [下载 v1.1 PDF](https://github.com/Hanyuan9766/ai-era-legal-research-guide/raw/refs/heads/main/AI时代法律文献检索指北_v1.1.pdf)**
+**[在线阅读 v1.1 PDF](AI时代法律文献检索指北_v1.1.pdf) · [下载 v1.1 PDF](https://github.com/yuke2027/ai-era-legal-research-guide/raw/refs/heads/main/AI时代法律文献检索指北_v1.1.pdf)**
 
 v1.1 链接增补版共78页，保留第一版正文与封面，新增两页图谱、SOP、演练和模板导航。各章页眉及章首页页脚可直接打开对应配套内容。PDF 中的配套链接固定到本次图谱版本，仓库首页提供后续更新；图谱在线阅读。
 
@@ -51,4 +51,4 @@ v1.1 链接增补版共78页，保留第一版正文与封面，新增两页图�
 
 图谱编制日期为2026年10月18日；各平台的实际查询时间、权限与访问结果由执行者在日志中分别记录。操作演练使用教学设定，明确区分候选查询路径与真实检索结果。
 
-欢迎在 [Issues](https://github.com/Hanyuan9766/ai-era-legal-research-guide/issues) 提交问题，注明文件、节点编号、观察日期及可回查来源。修改记录见 [CHANGELOG](CHANGELOG.md)，图谱维护方式见 [diagrams/README](diagrams/README.md)。
+欢迎在 [Issues](https://github.com/yuke2027/ai-era-legal-research-guide/issues) 提交问题，注明文件、节点编号、观察日期及可回查来源。修改记录见 [CHANGELOG](CHANGELOG.md)，图谱维护方式见 [diagrams/README](diagrams/README.md)。
